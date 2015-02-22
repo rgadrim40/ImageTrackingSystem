@@ -1,0 +1,849 @@
+﻿a:link
+{
+    color: #000000;
+}
+a:visited
+{
+    color: #000000;
+}
+
+body
+{
+    margin-top: 0;
+}
+.Body_Panel
+{
+    border: 1px solid #663300;  /* dark brown */
+    background-color: #E3CF9F;  /* light brown */
+    color: #000000;             /* black */
+    text-align: center;
+    width: 780px;
+}
+
+.Greet     
+{
+    background-color: #ffffcc;
+    color: #663300;
+    border: 1px solid Black;
+    font-weight: bold;
+    height: 20px;
+    text-align: left;
+    width: 100%;
+}
+
+.Caption    
+{
+    border: 1px solid #400000;
+    /*background-color: #663300;*/
+    background-image: url('/images/wooddark.jpg');
+    color: #E3CF9F;
+    text-align: center;
+    height: 25px;
+    font-size: larger;
+    font-weight: bold;
+    width: 100%;
+}
+
+.Ctrl
+{
+	background-color : #ffffcc;
+	text-align: left;
+}
+
+/*------------New--------------------*/
+.RightTable
+{
+    border: 1px solid Black;
+    background-color : #E3CF9F;
+    text-align: right;
+    width: 100%;
+}
+
+.LeftTable
+{
+    border: 1px solid Black;
+    background-color : #E3CF9F;
+    text-align: left;
+    width: 100%;
+}
+
+.RightCaption
+{
+	background-color : #663300;
+    background-image: url('/images/wooddark.jpg');
+	color: #E3CF9F;
+	font-weight:bold;
+	text-align: left;
+}
+/*-----------------------------------*/
+.LeftCaption
+{
+	background-color : #663300;
+    background-image: url('/images/wooddark.jpg');
+	color: #E3CF9F;
+	font-weight:bold;
+	text-align: right;
+}
+.ColHdr
+{
+	border: 1px solid #663300;
+	background-color: #663300;  
+    background-image: url('/images/wooddark.jpg');
+	color: #E3CF9F;	
+    font-weight: bold;
+	text-align: center;
+	height: 18px;
+}
+.Table
+{
+    border: 1px solid Black;
+    background-color : #E3CF9F;
+    text-align: center;
+    width: 100%;
+}
+.Separator
+{
+	background-color: #663300;
+    background-image: url('/images/wooddark.jpg');
+	height: 10px;
+	text-align: center;
+}
+.Description
+{
+    border: 2px inset #663300;
+    background-color: #ffffcc;
+    color: #663300;
+    text-align: center;
+}
+
+.Menu
+{
+	background-color: #CC9966;
+	border-color: Gray;
+    color: #663300;
+	margin: 1px; 
+	width: 770px;
+}
+.MenuStaticItem
+{
+	border: 2px Outset Gray;
+	background-color: Gray;
+	color: #000000;
+	padding-right: 2px;
+}
+.MenuDynamicItem
+{
+	border: 2px Inset Gray;
+	background-color: Gray;
+	color: #000000;
+	padding-right: 2px;
+	padding-bottom: 1px;
+}
+.MenuStaticHover
+{
+	background-color: Gray;
+	border-color: #0000C0;
+	color: #0000C0;
+}
+.MenuDynamicHover
+{
+	background-color: #CC9966;
+	border-color: #0000C0;
+	color: #663300;
+}
+.RedCenter
+{
+    font-family: 'Century Gothic';
+    font-weight: bold;
+    color: #FF0000;
+    text-align: center;
+}
+.SelectList
+{
+    background-color: #BCBCD5;
+}
+.NoPrint
+{
+}
+.Footer {font: bold 11px Verdana, sans-serif; color: #000066;}
+
+/*==================================================================*/
+/* DbNetSuite 4.3 CSS  (in order defined)                           */
+/*------------------------------------------------------------------*/
+.ui-dialog input,
+.ui-dialog select,
+.ui-dialog td,
+.ui-dialog-title
+{
+	font-family: Arial;
+	font-size: small;
+}
+
+.ui-widget *
+{
+	font-family: Arial;
+	font-size: small;
+}
+
+.ui-widget-header *
+{
+	font-family: Arial;
+	font-size: small;
+}
+
+.dbnetsuite-message-box-content
+{
+	border:1pt solid silver;
+	background-color: whitesmoke;
+}
+.dbnetsuite .message-line
+{
+	border:1pt solid silver;
+	background-color: whitesmoke;
+	padding:2px;
+}
+
+.dbnetsuite .thumbnail
+{
+	cursor:pointer;
+}
+
+.dbnetsuite .error-content
+{
+	border:1pt solid silver;
+	background-color: white;
+/*	overflow-x:scroll;*/
+/*	overflow-y:scroll;*/
+	padding: 2px;
+}
+
+.dbnetsuite .highlight
+{
+	background-color: gold;
+}
+
+.dbnetsuite .field-highlight
+{
+	border:1pt solid red;
+}
+.dbnetsuite .field-modified
+{
+	background-color: gold;
+}
+.dbnetsuite .search-toolbar
+{
+	border-top:1pt solid silver;
+}
+.dbnetsuite .upload-toolbar
+{
+	border-top:1pt solid silver;
+}
+.dbnetsuite .edit-dialog-toolbar
+{
+	border-top:1pt solid silver;
+}
+.dbnetsuite .edit-label
+{
+	white-space: nowrap;
+}
+.dbnetsuite-dialog-button
+{
+	margin-left:5px;
+	margin-right:5px;
+	padding:10px;
+}
+.filter-text-label 
+{
+	font-weight:bold;
+	color:#336699;
+}
+.filter-text-value          /* controls ddl content in filters in grid */
+{
+	font-size: 8pt;     
+	font-weight: bold;
+}
+.filter-text-join-op
+{
+	color:dimgray;
+}
+.filter-text-advanced-join-op
+{
+	color:blue;
+}
+
+/*==================================================================*/
+/* DbNetGrid CSS                                                    */
+/*------------------------------------------------------------------*/
+.dbnetgrid td,
+.dbnetgrid th,
+.dbnetgrid input,
+.dbnetgrid select, 
+.dbnetgrid caption
+{
+	font-family: Arial;
+	font-size: 8pt;     
+}
+.dbnetgrid .toolbar
+{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+table.dbnetgrid                     
+{
+	border-collapse: collapse;
+	border: 1pt solid silver;
+}
+
+.dbnetgrid .header-row /* this doesn't seem to have an effect */
+{
+	font-weight: bold;
+	font-size: 12pt;
+    /*color: #E3CF9F;*/
+}
+.dbnetgrid .header-cell
+{
+	background-color: #996633;
+	border: 1pt solid #000000;
+    /*color: #000000;*/
+	/*font-size: 12pt;*/        /* font styles don't do anything, other styles do */
+	/*font-weight: bold;*/
+	/*text-align: center;*/
+	cursor: pointer;
+}
+
+.dbnetgrid .header-cell-table.ui-draggable-dragging
+{   /* column header while being dragged */
+	background-color: #996633;
+	border: 1pt solid silver;
+	font-weight: bold;
+	text-align: left;
+	cursor: pointer;
+}
+
+.dbnetgrid .even                        /* even rows in grid */
+{
+	background-color: #CC9966;
+	color: #000000;
+}
+.dbnetgrid .odd                         /* odd rows in grid */
+{
+	background-color: #E3CF9F;
+	color: #000000;
+}
+.dbnetgrid .highlight
+{
+    /*background-color: #ffcc00;*/
+    background-image: url('/images/wooddark.jpg');
+    color: #ffffff;
+}
+.dbnetgrid .selected                    /* selected row in grid */               
+{
+	background-color: #996633;
+    color: #ffffff;
+}
+.dbnetgrid .selected a                  /* anchor tag in selected row in grid */
+{
+	color: black;
+}
+.dbnetgrid .data-cell
+{
+	border:1pt solid silver;
+}
+.dbnetgrid .filter-cell                 /* cells in the filter row */
+{
+	padding-right: 2px;
+	font-size: 8pt;
+}
+.filter-column-select                   /* ddl in filter row */
+{
+	display: block; 
+	width: 100%; 
+	background-color: #ffffcc;
+	font-size: 8pt;
+}
+.dbnetgrid .data-cell a
+{
+	text-decoration: underline;
+}
+.dbnetgrid .aggregate-row
+{
+}
+.dbnetgrid .aggregate-cell
+{
+	font-weight: bold;
+	background-color: #ECF2F4;
+	border:1pt solid silver;
+}
+
+.dbnetgrid .nested-grid-cell
+{
+	padding:10px;
+}
+
+.dbnetgrid .aggregate-filler-cell
+{
+	background-color: #ECF2F4;
+	border:1pt solid silver;
+}
+
+.dbnetgrid .aggregate-label
+{
+	font-weight:bold;
+}
+.dbnetgrid .aggregate-label-value
+{
+	padding-left:5px;
+}
+
+.dbnetgrid .dbnetedit-toolbar
+{
+	border-top: 1pt solid silver;
+}
+
+.config-toolbar
+{
+	border-top: 1pt solid silver;
+}
+
+.asc-sort-sequence-image {
+	width:20px;
+	background: url(Asc.gif) no-repeat center; 
+	padding:0px 5px;
+}
+
+.desc-sort-sequence-image {
+	width:20px;
+	background: url(Desc.gif) no-repeat center; 
+	padding:0px 5px;
+}
+
+.dbnetgrid-message-box
+{
+	border: 1px solid silver;
+	background-color:#F6F5F1;
+	padding:2px;
+	white-space:normal;
+}
+
+/*==================================================================*/
+/* DbNetEdit CSS                                                    */
+/*------------------------------------------------------------------*/
+.dbneteditinput, 
+.dbnetedit select, 
+.dbnetedit textarea, 
+.dbnetedit td
+{
+	font-family:verdana;
+	font-size:small;
+}
+
+.dbnetedit-input
+{
+	font-family:verdana;
+	font-size:small;
+}
+
+div.updated-by-audit, div.updated-audit, div.created-by-audit, div.created-audit
+{
+	margin-left:5px;
+	padding:2px;
+	border: 1pt solid #7F9DB9;
+	background-color:#eee;
+	color:#111;
+	white-space:nowrap;
+}
+
+td.updated-by-audit, td.updated-audit, td.created-by-audit, td.created-audit
+{
+	margin-left:5px;
+	padding:2px;
+	border: 1pt solid #7F9DB9;
+	background-color:#eee;
+	color:#111;
+	white-space:nowrap;
+}
+
+img.audit-history
+{
+	padding-left:2px;
+	cursor:pointer;
+}
+
+table.audit-history
+{
+	background-color:#fff;
+	border-collapse:collapse;
+}
+
+table.audit-history td
+{
+	padding:3px;
+	border:1pt solid #aaa; 
+}
+
+table.audit-history tr.odd
+{
+	background-color:#eee;
+}
+
+.nicEdit-main
+{
+	background-color:#FFFFFF; 
+	color:#000000;
+}
+
+.dbnetedit-input
+{   
+} 
+
+.dbnetedit-focus
+{   
+} 
+
+.dbnetedit-label
+{
+	white-space:nowrap;
+	font-family:verdana;
+	font-size:small;
+}
+
+.dbnetedit .toolbar-top
+{
+	padding-bottom:5px;
+	padding-top:5px;
+	margin-bottom:5px;
+	border-bottom:1pt solid silver;
+}
+.dbnetedit .toolbar-bottom
+{
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:5px;
+	border-top:1pt solid silver;
+}
+
+.dbnetedit .message-line
+{
+	border: 1px solid silver;
+	background-color:#F6F5F1;
+	padding:5px;
+	white-space:normal;
+}
+
+.dbnetedit .audit-panel
+{
+	border-top:1pt solid silver;
+	margin-top:5px;
+	padding-top:2px;
+	height:24px;
+}
+
+.dbnetedit table.audit
+{
+	float:right;
+}
+
+div .html-preview
+{
+	overflow:auto;
+	width:400px;
+	height:100px;
+	border:1pt solid silver;
+	background-color:white;
+}
+
+div .thumbnail-panel
+{
+	border:1pt inset;
+	padding:2px;
+	text-align:center;
+	vertical-align:middle;
+}
+#tooltip {
+	position: absolute;
+	z-index: 3000;
+	border: 1px solid #336699;
+	background-color: lightyellow;
+	padding: 5px;
+	opacity: 0.85;
+}
+#tooltip h3, #tooltip div 
+{ 
+	margin: 0; 
+	font-family: Verdana;
+	font-size: small;
+	font-weight:normal;
+}
+.thumbnail-image
+{
+	cursor:pointer;
+}
+
+/*==================================================================*/
+/* DbNetFile CSS                                                    */
+/*------------------------------------------------------------------*/
+.dbnetfile *
+{
+	font-family: Verdana;
+	font-size: small;
+}
+
+.dbnetfile-tree
+{
+	border:1pt solid silver;
+}
+
+.dbnetfile .toolbar
+{
+}
+
+.dbnetfile .thumbnail
+{
+	cursor:pointer;
+}
+
+.dbnetfile .message-line
+{
+	margin-top:5px;
+}
+
+.dialog .search-criteria
+{
+}
+
+.dialog .highlight
+{
+	background-color:gold;
+}
+
+.dialog .toolbar-container
+{
+	border-top:1pt solid silver;
+}
+
+table.file-search-dialog-criteria td
+{
+	padding-left:2px;
+	padding-right:2px;
+}
+
+table.dbnetfile
+{
+	border-collapse: collapse;
+	border: 1px solid #DDDDDD;
+}
+
+.dbnetfile .toolbar
+{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.dbnetfile.grid .header-row
+{
+
+}
+
+.dbnetfile.grid .header-cell
+{
+	background-color: gainsboro;
+	border-bottom: 1px solid silver;
+	border-top: 1px solid silver;
+	font-weight: bold;
+	text-align: left;
+	cursor:pointer;
+}
+
+.dbnetfile.grid .even
+{
+	background-color: #F5F5F5;
+}
+
+.dbnetfile.grid .odd
+{
+	background-color: #FFFFFF;
+}
+
+.dbnetfile.grid .highlight
+{
+	background-color: khaki;
+}
+
+.dbnetfile.grid .selected
+{
+	background-color: #336699;
+	color: white;
+}
+
+.dbnetfile.grid .selected a
+{
+	color: white;
+}
+
+.dbnetfile.grid .data-cell
+{
+
+}
+
+.dbnetfile .tree-node-selected
+{
+	background-color:#316AC5;
+	color:white !important;
+}
+.dbnetfile .tree-node-highlight
+{
+	text-decoration:underline !important;
+}
+
+.dbnetfile .tree-image-cell
+{
+	width:16px;
+}
+
+.dbnetfile .tree-text-cell
+{
+	padding-left:2px;
+	color:black;
+	text-decoration:none;
+}
+
+.dbnetfile .img-link
+{
+	border:1pt solid blue;
+}
+.dbnetfile .caption
+{
+	font-size: x-small;
+}
+.dbnetfile .error
+{
+	border:1pt solid silver;
+	background-color:gold;
+	font-size:large;
+	font-weight:bold;
+}
+
+.dbnetfile .tree-icon-cell
+{
+	width:16px;
+}
+
+table.dbnetfile.tree    
+{   
+	border: 0pt;   
+} 	
+
+.dbnetfile.tree td
+{
+	padding-top:1px;
+	padding-bottom:1px;
+}
+
+.dbnetfile.tree .highlight
+{
+	background-color:transparent;
+}
+
+/*===========================================*/
+/* Styles for DayPilot Calendars             */
+/*-------------------------------------------*/
+.vchd_main
+{
+    border-collapse: collapse;
+    border: 1px solid #400000;
+}
+
+.vchd_cell
+{
+	background-color: #f3f3f3;
+}
+
+.vchd_cell.vchd_cell_business
+{
+    background-color: #FFFFFF;
+}
+
+.vchd_cell_inner
+{
+    border: 1px solid #400000;
+}
+
+.vchd_cell_header
+{
+    border: 1px solid #400000;
+    background-color: #CC9966;
+    color: #000000;
+}
+
+.vchd_header
+{
+    border: 1px solid #400000;
+    background-color: #663300;
+    background-image: url('/images/wooddark.jpg');
+    color: #E3CF9F;
+}
+
+.vchd_event
+{
+    border: 1px solid #400000;
+    padding-bottom: 2px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.vchd_event_inner
+{
+    background-color: #ffffcc;
+    overflow: hidden;
+    top: 0px;
+    bottom: 2px;
+    left: 0px;
+    right: 0px;
+    padding-left: 3px;
+    color: #000000;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #079beb;
+    -moz-box-shadow: 0px 0px 5px rgba(000,000,000,0.5), inset 0px 1px 0px rgba(072,211,246,1);
+    -webkit-box-shadow: 0px 0px 5px rgba(000,000,000,0.5), inset 0px 1px 0px rgba(072,211,246,1);
+    box-shadow: 0px 0px 5px rgba(000,000,000,0.5), inset 0px 1px 0px rgba(072,211,246,1);
+    text-shadow: 0px -1px 0px rgba(007,155,235,1), 0px 0px 0px rgba(000,000,000,0);
+    padding-bottom: 2px;
+}
+
+.vchd_event_hover .vchd_event_inner 
+{
+	background: #5BC8EF;
+}
+
+.vchd_shadow_inner 
+{
+	background-color: #666666;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	height: 100%;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.vchd_message
+{
+    border-style: double;
+    border-width: 2px;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    padding: 10px;
+    color: #fff;
+    background: #CC9966;
+    background-image: url('/images/wooddark.jpg');
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+}
+

@@ -1,0 +1,860 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+techpromediainc.com
+</name>
+</assembly>
+<members>
+<member name="F:techpromediainc.com.MediaType.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.UpdateTypeGrid">
+	<summary>
+UpdateTypeGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.MessagePnl">
+	<summary>
+MessagePnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.ErrorPnl">
+	<summary>
+ErrorPnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.MessagesPnl">
+	<summary>
+MessagesPnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.lblMessages">
+	<summary>
+lblMessages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.lclType">
+	<summary>
+lclType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaType.SqlDataMediaType">
+	<summary>
+SqlDataMediaType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.RegisterExternalLogin.userNameForm">
+	<summary>
+userNameForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.RegisterExternalLogin.userName">
+	<summary>
+userName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.DefaultLoggedIn.A1">
+	<summary>
+A1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.DefaultLoggedIn.A2">
+	<summary>
+A2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.DefaultLoggedIn.A4">
+	<summary>
+A4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.DefaultLoggedIn.A5">
+	<summary>
+A5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.DefaultLoggedIn.A6">
+	<summary>
+A6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.DefaultLoggedIn.A7">
+	<summary>
+A7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.DefaultLoggedIn.A3">
+	<summary>
+A3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.PlaceHolder1">
+	<summary>
+PlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.BundleReference1">
+	<summary>
+BundleReference1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.A1">
+	<summary>
+A1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.LoginView1">
+	<summary>
+LoginView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.FeaturedContent">
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Site1.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Assignments.A1">
+	<summary>
+A1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Assignments.A2">
+	<summary>
+A2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Assignments.A4">
+	<summary>
+A4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Assignments.A5">
+	<summary>
+A5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Assignments.A6">
+	<summary>
+A6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.ddlInactive">
+	<summary>
+ddlInactive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.lclUserName">
+	<summary>
+lclUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.ddlType">
+	<summary>
+ddlType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.lclMediaName">
+	<summary>
+lclMediaName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.lclDescription">
+	<summary>
+lclDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.lclMediaDate">
+	<summary>
+lclMediaDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.reviewPnl">
+	<summary>
+reviewPnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.reviewUser">
+	<summary>
+reviewUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.reviewType">
+	<summary>
+reviewType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.reviewName">
+	<summary>
+reviewName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.reviewDescript">
+	<summary>
+reviewDescript control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.reviewDate">
+	<summary>
+reviewDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.reviewInactive">
+	<summary>
+reviewInactive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.editPnl">
+	<summary>
+editPnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.editUserName">
+	<summary>
+editUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.editDDlType">
+	<summary>
+editDDlType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.editName">
+	<summary>
+editName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.editDescript">
+	<summary>
+editDescript control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.editDate">
+	<summary>
+editDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.editInactive">
+	<summary>
+editInactive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.btnSave2">
+	<summary>
+btnSave2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.MessagePnl">
+	<summary>
+MessagePnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.ErrorPnl">
+	<summary>
+ErrorPnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.MessagesPnl">
+	<summary>
+MessagesPnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.lblMessages">
+	<summary>
+lblMessages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.SqlDataForm">
+	<summary>
+SqlDataForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.SqlDataMediaName">
+	<summary>
+SqlDataMediaName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.SqlDataInactive">
+	<summary>
+SqlDataInactive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.SqlDataType">
+	<summary>
+SqlDataType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.SqlDataMedia">
+	<summary>
+SqlDataMedia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.hiddenRowID">
+	<summary>
+hiddenRowID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.hiddenUser">
+	<summary>
+hiddenUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.MediaGrid.hiddenBox">
+	<summary>
+hiddenBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Manage.successMessage">
+	<summary>
+successMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Manage.setPassword">
+	<summary>
+setPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Manage.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Manage.confirmPassword">
+	<summary>
+confirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Manage.changePassword">
+	<summary>
+changePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:techpromediainc.com.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:techpromediainc.com.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:techpromediainc.com.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:techpromediainc.com.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:techpromediainc.com.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:techpromediainc.com.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:techpromediainc.com.SiteMaster.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.SiteMaster.FeaturedContent">
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.SiteMaster.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.About.A4">
+	<summary>
+A4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.About.A5">
+	<summary>
+A5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.About.A6">
+	<summary>
+A6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.OpenAuthProviders.providerDetails">
+	<summary>
+providerDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclFirstName">
+	<summary>
+lclFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclLastName">
+	<summary>
+lclLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclAddress1">
+	<summary>
+lclAddress1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclAddress2">
+	<summary>
+lclAddress2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclCity">
+	<summary>
+lclCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclState">
+	<summary>
+lclState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclEmail">
+	<summary>
+lclEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lclUserName">
+	<summary>
+lclUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.ErrorPnl">
+	<summary>
+ErrorPnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.MessagePnl">
+	<summary>
+MessagePnl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.EditUserProfile.hiddenRowID">
+	<summary>
+hiddenRowID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:techpromediainc.com.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
